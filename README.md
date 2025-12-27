@@ -48,33 +48,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
----
-
-## 🚀 Featured Projects
-
-### 📚 **BookHive**
-> Full-stack Library Management System (MERN)
-
-- User & Admin dashboards  
-- Book & PYQ management  
-- OTP-based authentication  
-
-🔗 Live: https://bookhive-manager.vercel.app  
-💻 Code: https://github.com/yuvraj-mehta/Byteverse_NandiNinjas
-
----
-
-### 🌱 **EcoGuardian**
-> Community platform for environmental collaboration
-
-- Issue reporting
-- Educational resources
-- Project collaboration  
-
-🔗 Live: https://yuvraj-mehta.github.io/EcoGuardian_prototype  
-💻 Code: https://github.com/yuvraj-mehta/EcoGuardian_prototype
-
 ---
 
 ## 📊 Competitive Programming
@@ -100,15 +73,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-mehta&layout=compact&theme=tokyonight" height="160"/>
 </p>
-
----
-
-## 🏆 Achievements
-
-- 🥇 **Best Delegate** – Model United Nations (2023)
-- 🤖 Technical Member – Robotics Club
-- 🎓 Class Representative – CSE Dept (3 semesters)
-- 🏃 Bronze Medal – 50m Hurdles
 
 ---
 
