@@ -13,20 +13,20 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently building **Full-Stack MERN & Next.js projects**
-- 🧠 Solved **500+ DSA problems** across platforms
+- 🌱 Currently building **Full-Stack MERN & Next.js applications**
+- 🧠 Solved **500+ DSA problems** across competitive platforms
 - 🤖 Technical Member at **Robotics Club, NIT Patna**
 - 🏃 Bronze Medalist – **50m Hurdles (Intramurals)**
-- 🎯 Focused on writing **clean, scalable, real-world code**
+- 🎯 Focused on writing **clean, scalable, production-ready code**
 
-> _I believe every line of code should either solve a problem or teach something new._
+> _I believe every line of code should either solve a real problem or improve the system._
 
 ---
 
 ## 🔍 Currently Looking For
 
 - 💼 **Software Development Internships** (Frontend / Full Stack / Backend)
-- 🌱 Roles that offer **real-world problem solving**, mentorship, and growth
+- 🌱 Roles with **real-world problem solving**, mentorship, and ownership
 - 📍 Open to **Remote** and **On-site** opportunities
 
 > Actively seeking **Summer 2025 / 2026 internships**
@@ -86,14 +86,33 @@
 
 ## 📊 Competitive Programming
 
-| Platform       | Rating           | Problems |
-| -------------- | ---------------- | -------- |
-| **LeetCode**   | 1694 (Top 13.49%) | 371+     |
-| **CodeChef**   | 1451 (2★)        | 25+      |
-| **Codeforces** | 1030             | 27+      |
-| **GFG**        | —                | 130+     |
+| Platform       | Rating              | Problems |
+| -------------- | ------------------- | -------- |
+| **LeetCode**   | 1694 (Top 13.49%)   | 371+     |
+| **CodeChef**   | 1451 (2★)          | 25+      |
+| **Codeforces** | 1030               | 27+      |
+| **GFG**        | —                  | 130+     |
 
 🔢 **Total Solved:** 500+
+
+---
+
+## 🏆 Achievements & Leadership
+
+- 🥇 **Best Delegate** — Model United Nations (2023)
+- 🤖 **Technical Member** — Robotics Club, NIT Patna  
+  Built combat & soccer bots, organized hands-on workshops
+- 🎓 **Class Representative** — CSE Department (3 semesters)
+- 🏃 **Bronze Medal** — 50m Hurdles, NIT Patna Intramurals
+
+---
+
+## 🎯 Current Focus
+
+- Building **scalable full-stack systems**
+- Strengthening **DSA & system design fundamentals**
+- Exploring **advanced Next.js patterns**
+- Preparing for **Software Development Internships**
 
 ---
 
