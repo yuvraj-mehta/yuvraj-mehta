@@ -22,6 +22,17 @@
 > _I believe every line of code should either solve a problem or teach something new._
 
 ---
+
+## 🔍 Currently Looking For
+
+- 💼 **Software Development Internships** (Frontend / Full Stack / Backend)
+- 🌱 Roles that offer **real-world problem solving**, mentorship, and growth
+- 📍 Open to **Remote** and **On-site** opportunities
+
+> Actively seeking **Summer 2025 / 2026 internships**
+
+---
+
 ## 🛠 Tech Stack
 
 ### 💻 Programming Languages
